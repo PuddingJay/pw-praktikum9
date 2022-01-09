@@ -20,7 +20,7 @@ $karyawan = query("SELECT * FROM karyawan");
 
 <body>
     <center>
-        <h1>Daftar Mahasiswa</h1>
+        <h1>Daftar Karyawan</h1>
 
         <a class="tambah" href="tambah.php">
             <h2>Tambah Data</h2>
